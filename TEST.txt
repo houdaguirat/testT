@@ -1,9 +1,7 @@
-<<<<<<< HEAD
+
 hello  hajer
 hello world it's add by manel
 au revoir 
-=======
 hello Houda
 Good luck by Mehdi
 Au revoir
->>>>>>> 03f4b7eefb266cea6ffcb04dd09cf7fbd29e6f4a
